@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
 
     android:background="@android:color/black"
-    tools:context="com.virajashah.android.virajdemo.MainActivity">
+    tools:context="com.example.jeffsikala.jeffdemo.MainActivity">
 
 
     <RelativeLayout
